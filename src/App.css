@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background: snow;
 }
 
 .App-logo {
@@ -35,4 +36,14 @@
   to {
     transform: rotate(360deg);
   }
+}
+.affiche {
+  display: flex;
+  align-items: center;
+}
+h3 {
+  color: red;
+}
+h2 {
+  color: seagreen;
 }
